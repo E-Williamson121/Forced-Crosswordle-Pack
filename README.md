@@ -1,5 +1,11 @@
 # Forced Crosswordle Pack
 
+Puzzles in this pack are arranged into groups of similar style. Each group is further arranged in order of increasing length and difficulty.
+
+If a group of puzzles is of a style you don't like, feel free to skip it and try a different group instead.
+
+The styles of puzzles here are fairly diverse, so there should hopefully be something for everyone.
+
 ## Group 1: Puzzles with the fewest possible number of grey tiles:
 
 🟨🟨🟨🟨🟨  
@@ -25,7 +31,7 @@
 
 ## Group 2: Puzzles with the largest possible number of green tiles:
 
-*Brute force will likely be necessary for many words in this group, but the large number of green tiles should keep it managable \:)*
+*Brute force will likely be necessary for many words in this group, but the large number of green tiles should keep it manageable.*
 
 🟩🟩🟩⬜⬜  
 🟩🟩🟩⬜🟨  
@@ -50,7 +56,7 @@
 
 ## Group 3: Puzzles with a small number of colours, but NYT answer list solutions:
 
-*As words in this group are part of the NYT list, they should be recognisable, so no brute force should be required \:)*
+*As words in this group are part of the NYT list, they should be recognisable.*
 
 ⬜⬜⬜🟨⬜  
 ⬜🟨🟨⬜⬜  
@@ -73,7 +79,7 @@
 🟩🟩🟩🟩🟩  
 **Puzzle 9:** https://crosswordle.vercel.app/?puzzle=v1-9,81,4,163,219,242-rimus
 
-## Group 4: miscellaneous puzzles:
+## Group 4: Miscellaneous puzzles:
 
 Puzzle 10 is another puzzle using the NYT answer list, this one has a large number of clues so doesn't fit in the previous section, but it has an interesting shape and solve, so I wanted to put it as an extra.
 
@@ -104,6 +110,6 @@ Puzzles 11 and 12 are forced crosswordles with the minimum number of colours pos
 
 ## Final notes
 
-Thanks for viewing this puzzle pack. Hopefully you enjoyed the puzzles contained within. \:)
+Thanks for viewing this puzzle pack. Hopefully you enjoyed the puzzles contained within \:)
 
 The dataset these puzzles were taken from and the python scripts used to generate said dataset are also on github (https://github.com/E-Williamson121/Forced-Crosswordles)
