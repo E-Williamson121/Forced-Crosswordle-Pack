@@ -142,6 +142,6 @@ Puzzles 11 and 12 are forced crosswordles with the minimum number of non-grey sq
 
 Thanks for viewing this puzzle pack. Hopefully you enjoyed the puzzles contained within \:)
 
-The original idea for this pack was inspired by @Baactiba. You may also thank them for the existence of group 5, as it would not exist if they had not specifically asked for challenging puzzles \:P
+The original idea for this pack was inspired by @Baactiba. You may also thank them for the existence of group 5, as it would not exist if they had not said that they were finding puzzles in a discord server I'm in too easy \:P
 
 The dataset these puzzles were taken from and the python scripts used to generate said dataset are also on github (https://github.com/E-Williamson121/Forced-Crosswordles)
