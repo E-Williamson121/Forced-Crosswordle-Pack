@@ -115,20 +115,20 @@ Puzzles 11 and 12 are forced crosswordles with the minimum number of colours pos
 ***The difficulty of every puzzle in this group is diabolical. If you can solve even one of these, very well done.***
 
 ⬜⬜⬜⬜⬜  
-⬜🟨⬜⬜⬜  
-🟨⬜🟨⬜⬜  
-⬜⬜🟩⬜🟨  
-🟩⬜🟩⬜🟨  
-🟩🟩🟩🟩🟩  
-**Puzzle 13:** https://crosswordle.vercel.app/?puzzle=v1-0,27,90,19,181,242-hides
-
-⬜⬜⬜⬜⬜  
 ⬜⬜⬜⬜🟩  
 ⬜🟨⬜⬜🟩  
 ⬜⬜🟨⬜🟩  
 ⬜🟩⬜🟩🟩  
 🟩🟩🟩🟩🟩  
-**Puzzle 14:** https://crosswordle.vercel.app/?puzzle=v1-0,2,29,11,62,242-detox
+**Puzzle 13:** https://crosswordle.vercel.app/?puzzle=v1-0,2,29,11,62,242-detox
+
+⬜⬜⬜⬜⬜  
+⬜🟨⬜⬜⬜  
+🟨⬜🟨⬜⬜  
+⬜⬜🟩⬜🟨  
+🟩⬜🟩⬜🟨  
+🟩🟩🟩🟩🟩  
+**Puzzle 14:** https://crosswordle.vercel.app/?puzzle=v1-0,27,90,19,181,242-hides
 
 *Puzzle 15 has an extra hint added to the result produced by the dataset. I personally believe this puzzle would be a difficulty above diabolical without it.*
 
