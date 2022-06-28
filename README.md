@@ -39,12 +39,12 @@ The styles of puzzles here are fairly diverse, so there should hopefully be some
 🟩🟩🟩🟩🟩  
 **Puzzle 4:** https://crosswordle.vercel.app/?puzzle=v1-234,235,240,242-zonal
 
-🟩⬜🟨🟩⬜  
-🟩🟩⬜🟩⬜  
-🟩🟩🟨🟩⬜  
-🟩🟩⬜🟩🟩  
+⬜⬜🟨🟩🟩  
+⬜🟩⬜🟩🟩  
+🟨🟩⬜🟩🟩  
+⬜🟩🟩🟩🟩  
 🟩🟩🟩🟩🟩  
-**Puzzle 5:** https://crosswordle.vercel.app/?puzzle=v1-177,222,231,224,242-ocker
+**Puzzle 5:** https://crosswordle.vercel.app/?puzzle=v1-17,62,143,80,242-yobbo
 
 ⬜⬜🟩⬜🟩  
 ⬜🟨🟩⬜🟩  
