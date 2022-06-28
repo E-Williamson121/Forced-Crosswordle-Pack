@@ -108,6 +108,38 @@ Puzzles 11 and 12 are forced crosswordles with the minimum number of colours pos
 🟩🟩🟩🟩🟩  
 **Puzzle 12:** https://crosswordle.vercel.app/?puzzle=v1-0,81,1,54,60,242-agmas
 
+## Group 5: Diabolical puzzles
+
+*Puzzles in this group are some of the hardest puzzles I have found using the dataset.*
+ 
+***The difficulty of every puzzle in this group is diabolical. If you can solve even one of these, very well done.***
+
+⬜⬜⬜⬜⬜  
+⬜🟨⬜⬜⬜  
+🟨⬜🟨⬜⬜  
+⬜⬜🟩⬜🟨  
+🟩⬜🟩⬜🟨  
+🟩🟩🟩🟩🟩  
+**Puzzle 13:** https://crosswordle.vercel.app/?puzzle=v1-0,27,90,19,181,242-hides
+
+⬜⬜⬜⬜⬜  
+⬜⬜⬜⬜🟩  
+⬜🟨⬜⬜🟩  
+⬜⬜🟨⬜🟩  
+⬜🟩⬜🟩🟩  
+🟩🟩🟩🟩🟩  
+**Puzzle 14:** https://crosswordle.vercel.app/?puzzle=v1-0,2,29,11,62,242-detox
+
+*Puzzle 15 has an extra hint added to the result produced by the dataset. I personally believe this puzzle would be a difficulty above diabolical without it.*
+
+⬜⬜⬜⬜⬜  
+⬜⬜🟨⬜⬜  
+⬜🟨⬜⬜⬜  
+⬜⬜🟨⬜🟨  
+⬜🟨⬜🟨🟨  
+🟩🟩🟩🟩🟩  
+**Puzzle 15:** https://crosswordle.vercel.app/?puzzle=v2-0,9,27,10,31,242-x,x,0m,x,x,zappy
+
 ## Final notes
 
 Thanks for viewing this puzzle pack. Hopefully you enjoyed the puzzles contained within \:)
