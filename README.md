@@ -136,7 +136,7 @@ Puzzles 11 and 12 are forced crosswordles with the minimum number of colours pos
 ⬜⬜🟨⬜🟨  
 ⬜🟨⬜🟨🟨  
 🟩🟩🟩🟩🟩  
-**Puzzle 15:** https://crosswordle.vercel.app/?puzzle=v2-0,9,27,10,31,242-zappy
+**Puzzle 15:** https://crosswordle.vercel.app/?puzzle=v1-0,9,27,10,31,242-zappy
 
 ## Final notes
 
