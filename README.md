@@ -130,15 +130,13 @@ Puzzles 11 and 12 are forced crosswordles with the minimum number of colours pos
 🟩🟩🟩🟩🟩  
 **Puzzle 14:** https://crosswordle.vercel.app/?puzzle=v1-0,27,90,19,181,242-hides
 
-*Puzzle 15 has an extra hint added to the result produced by the dataset. I personally believe this puzzle would be a difficulty above diabolical without it.*
-
 ⬜⬜⬜⬜⬜  
 ⬜⬜🟨⬜⬜  
 ⬜🟨⬜⬜⬜  
 ⬜⬜🟨⬜🟨  
 ⬜🟨⬜🟨🟨  
 🟩🟩🟩🟩🟩  
-**Puzzle 15:** https://crosswordle.vercel.app/?puzzle=v2-0,9,27,10,31,242-x,x,0m,x,x,zappy
+**Puzzle 15:** https://crosswordle.vercel.app/?puzzle=v2-0,9,27,10,31,242-zappy
 
 ## Final notes
 
