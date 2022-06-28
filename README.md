@@ -90,7 +90,7 @@ Puzzle 10 is another puzzle using the NYT answer list, this one has a large numb
 🟩🟩🟩🟩🟩  
 **Puzzle 10:** https://crosswordle.vercel.app/?puzzle=v1-7,42,88,160,242-leper
 
-Puzzles 11 and 12 are forced crosswordles with the minimum number of colours possible. ***These two puzzles are very hard, as they don't use the NYT list.***
+Puzzles 11 and 12 are forced crosswordles with the minimum number of non-grey squares possible. ***These two puzzles are very hard, as they don't use the NYT list.***
 (If you try solving these two, remember that words are *forced*, so you should look to find any word that works for each row, starting at the bottom and working your way up)
 
 ⬜⬜⬜⬜⬜  
