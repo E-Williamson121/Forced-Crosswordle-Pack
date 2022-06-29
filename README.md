@@ -6,6 +6,8 @@ If a group of puzzles is of a style you don't like, feel free to skip it and try
 
 The styles of puzzles here are fairly diverse, so there should hopefully be something for everyone.
 
+**(Please note that when crosswordle says a puzzle is invalid, this just means at least one word not in the NYT answer list is required to solve the puzzle)**
+
 ## Group 1: Puzzles with the fewest possible number of grey tiles:
 
 🟨🟨🟨🟨🟨  
