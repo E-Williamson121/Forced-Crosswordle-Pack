@@ -56,9 +56,11 @@ The styles of puzzles here are fairly diverse, so there should hopefully be some
 🟩🟩🟩🟩🟩  
 **Puzzle 6:** https://crosswordle.vercel.app/?puzzle=v1-20,47,182,209,188,242-angle
 
-## Group 3: Puzzles with a small number of colours, but NYT answer list solutions:
+## Group 3: Puzzles with NYT answer list solutions:
 
 *As words in this group are part of the NYT list, they should be recognisable.*
+
+Puzzles 7, 8 and 9 are puzzles with the fewest number of non-grey tiles which still have a NYT-answer list solution.
 
 ⬜⬜⬜🟨⬜  
 ⬜🟨🟨⬜⬜  
@@ -81,9 +83,7 @@ The styles of puzzles here are fairly diverse, so there should hopefully be some
 🟩🟩🟩🟩🟩  
 **Puzzle 9:** https://crosswordle.vercel.app/?puzzle=v1-9,81,4,163,219,242-rimus
 
-## Group 4: Miscellaneous puzzles:
-
-Puzzle 10 is another puzzle using the NYT answer list, this one has a large number of clues so doesn't fit in the previous section, but it has an interesting shape and solve, so I wanted to put it as an extra.
+Puzzle 10 is another puzzle using the NYT answer list, this one has a large number of clues so doesn't match the other three, but it has an interesting shape and solve, so I wanted to put it as an extra.
 
 ⬜⬜⬜🟩🟨  
 ⬜🟨🟨🟩⬜  
@@ -92,8 +92,13 @@ Puzzle 10 is another puzzle using the NYT answer list, this one has a large numb
 🟩🟩🟩🟩🟩  
 **Puzzle 10:** https://crosswordle.vercel.app/?puzzle=v1-7,42,88,160,242-leper
 
-Puzzles 11 and 12 are forced crosswordles with the minimum number of non-grey squares possible. ***These two puzzles are very hard, as they don't use the NYT list.***
-(If you try solving these two, remember that words are *forced*, so you should look to find any word that works for each row, starting at the bottom and working your way up)
+## Group 4: Diabolical puzzles
+
+*Puzzles in this group are some of the hardest puzzles I have found using the dataset.*
+***The difficulty of every puzzle in this group is diabolical, if you solve any puzzle in this group, good job.***
+(If you try solving these, remember that words are *forced*, so for each puzzle, you should look to find any word that works for each row, starting at the bottom and working your way up. You may have to brute force the word in question if you do not know it.)
+
+Puzzles 11 and 12 are forced crosswordles with the minimum number of non-grey squares possible, ***and no longer restricted to the NYT answer list***.
 
 ⬜⬜⬜⬜⬜  
 ⬜⬜⬜⬜🟨  
@@ -110,11 +115,9 @@ Puzzles 11 and 12 are forced crosswordles with the minimum number of non-grey sq
 🟩🟩🟩🟩🟩  
 **Puzzle 12:** https://crosswordle.vercel.app/?puzzle=v1-0,81,1,54,60,242-agmas
 
-## Group 5: Diabolical puzzles
+Puzzle 12 is actually *the only* 6-row puzzle that is forced by 5 non-grey squares. All other forced 6-row puzzles have more colours.
 
-*Puzzles in this group are some of the hardest puzzles I have found using the dataset.*
- 
-***The difficulty of every puzzle in this group is diabolical. If you can solve even one of these, very well done.***
+Puzzles 13, 14 and 15 are hand-picked for having difficult words.
 
 ⬜⬜⬜⬜⬜  
 ⬜⬜⬜⬜🟩  
@@ -144,6 +147,6 @@ Puzzles 11 and 12 are forced crosswordles with the minimum number of non-grey sq
 
 Thanks for viewing this puzzle pack. Hopefully you enjoyed the puzzles contained within \:)
 
-The original idea for this pack was inspired by @Baactiba. You may also thank them for the existence of group 5, as it would not exist if they had not said that they were finding puzzles in a discord server I'm in too easy \:P
+The original idea for this pack was inspired by @Baactiba. You may also thank them for the existence of group 4, as it would not exist if they had not said that they were finding puzzles in a discord server I'm in too easy \:P
 
 The dataset these puzzles were taken from and the python scripts used to generate said dataset are also on github (https://github.com/E-Williamson121/Forced-Crosswordles)
