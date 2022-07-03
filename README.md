@@ -95,7 +95,9 @@ Puzzle 10 is another puzzle using the NYT answer list, this one has a large numb
 ## Group 4: Diabolical puzzles
 
 *Puzzles in this group are some of the hardest puzzles I have found using the dataset.*
+
 ***The difficulty of every puzzle in this group is diabolical, if you solve any puzzle in this group, good job.***
+
 (If you try solving these, remember that words are *forced*, so for each puzzle, you should look to find any word that works for each row, starting at the bottom and working your way up. You may have to brute force the word in question if you do not know it.)
 
 Puzzles 11 and 12 are forced crosswordles with the minimum number of non-grey squares possible, ***and no longer restricted to the NYT answer list***.
