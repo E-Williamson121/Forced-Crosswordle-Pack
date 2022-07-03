@@ -100,7 +100,7 @@ Puzzle 10 is another puzzle using the NYT answer list, this one has a large numb
 
 (If you try solving these, remember that words are *forced*, so for each puzzle, you should look to find any word that works for each row, starting at the bottom and working your way up. You may have to brute force the word in question if you do not know it.)
 
-Puzzles 11 and 12 are forced crosswordles with the minimum number of non-grey squares possible, ***and no longer restricted to the NYT answer list***.
+Puzzles 11 and 12 are forced crosswordles with the smallest number of non-grey tiles ***when not restricted to the NYT answer list***.
 
 ⬜⬜⬜⬜⬜  
 ⬜⬜⬜⬜🟨  
@@ -117,9 +117,9 @@ Puzzles 11 and 12 are forced crosswordles with the minimum number of non-grey sq
 🟩🟩🟩🟩🟩  
 **Puzzle 12:** https://crosswordle.vercel.app/?puzzle=v1-0,81,1,54,60,242-agmas
 
-Puzzle 12 is actually *the only* 6-row puzzle that is forced by 5 non-grey squares. All other forced 6-row puzzles have more colours.
+Puzzle 12 is actually *the only* 6-row puzzle that is forced by 5 non-grey tiles. All other forced 6-row puzzles have more.
 
-Puzzles 13, 14 and 15 are hand-picked for having difficult words.
+Puzzles 13, 14 and 15 are hand-picked for having certain aspects that result in a difficult solve.
 
 ⬜⬜⬜⬜⬜  
 ⬜⬜⬜⬜🟩  
