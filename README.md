@@ -1,6 +1,6 @@
 # Forced Crosswordle Pack
 
-Puzzles in this pack are arranged into groups of similar style. Each group arranged in approximate order of increasing length and difficulty.
+Puzzles in this pack are arranged into groups of similar style. Each group is then arranged in approximate order of increasing length and difficulty.
 
 If a group of puzzles is of a style you don't like, feel free to skip it and try a different group instead.
 
