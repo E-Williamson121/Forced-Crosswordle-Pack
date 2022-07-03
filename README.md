@@ -46,7 +46,7 @@ The styles of puzzles here are fairly diverse, so there should hopefully be some
 🟩🟩🟩⬜🟨  
 🟩🟩🟩🟩⬜  
 🟩🟩🟩🟩🟩  
-**Puzzle 5:** Crosswordle https://crosswordle.vercel.app/?puzzle=v1-75,234,235,240,242-simas
+**Puzzle 5:** https://crosswordle.vercel.app/?puzzle=v1-75,234,235,240,242-simas
 
 ⬜⬜🟩⬜🟩  
 ⬜🟨🟩⬜🟩  
