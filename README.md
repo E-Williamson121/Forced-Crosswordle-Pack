@@ -96,7 +96,7 @@ Puzzle 10 is another puzzle using the NYT answer list, this one has a large numb
 
 *Puzzles in this group are some of the hardest puzzles I have found using the dataset.*
 
-***The difficulty of every puzzle in this group is diabolical, if you solve any puzzle in this group, good job.***
+***The difficulty of puzzles in this group ranges from very hard to diabolical, if you solve any puzzle in this group, good job.***
 
 (If you try solving these, remember that words are *forced*, so for each puzzle, you should look to find any word that works for each row, starting at the bottom and working your way up. You may have to brute force the word in question if you do not know it.)
 
