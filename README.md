@@ -83,15 +83,6 @@ Puzzles 7, 8 and 9 are puzzles with the fewest number of non-grey tiles which st
 🟩🟩🟩🟩🟩  
 **Puzzle 9:** https://crosswordle.vercel.app/?puzzle=v1-9,81,4,163,219,242-rimus
 
-Puzzle 10 is another puzzle using the NYT answer list, this one has a large number of clues so doesn't match the other three, but it has an interesting shape and solve, so I wanted to put it as an extra.
-
-⬜⬜⬜🟩🟨  
-⬜🟨🟨🟩⬜  
-🟨⬜⬜🟩🟨  
-🟨🟩🟩🟩🟨  
-🟩🟩🟩🟩🟩  
-**Puzzle 10:** https://crosswordle.vercel.app/?puzzle=v1-7,42,88,160,242-leper
-
 ## Group 4: Diabolical puzzles
 
 *Puzzles in this group are some of the hardest puzzles I have found using the dataset.*
@@ -100,14 +91,14 @@ Puzzle 10 is another puzzle using the NYT answer list, this one has a large numb
 
 (If you try solving these, remember that words are *forced*, so for each puzzle, you should look to find any word that works for each row, starting at the bottom and working your way up. You may have to brute force the word in question if you do not know it.)
 
-Puzzles 11 and 12 are forced crosswordles with the smallest number of non-grey tiles ***when not restricted to the NYT answer list***.
+Puzzles 10 and 11 are forced crosswordles with the smallest number of non-grey tiles ***when not restricted to the NYT answer list***.
 
 ⬜⬜⬜⬜⬜  
 ⬜⬜⬜⬜🟨  
 ⬜🟩⬜⬜⬜  
 ⬜🟩⬜🟩⬜  
 🟩🟩🟩🟩🟩  
-**Puzzle 11:** https://crosswordle.vercel.app/?puzzle=v1-0,1,54,60,242-abash
+**Puzzle 10:** https://crosswordle.vercel.app/?puzzle=v1-0,1,54,60,242-abash
 
 ⬜⬜⬜⬜⬜  
 🟨⬜⬜⬜⬜  
@@ -115,11 +106,11 @@ Puzzles 11 and 12 are forced crosswordles with the smallest number of non-grey t
 ⬜🟩⬜⬜⬜  
 ⬜🟩⬜🟩⬜  
 🟩🟩🟩🟩🟩  
-**Puzzle 12:** https://crosswordle.vercel.app/?puzzle=v1-0,81,1,54,60,242-agmas
+**Puzzle 11:** https://crosswordle.vercel.app/?puzzle=v1-0,81,1,54,60,242-agmas
 
-Puzzle 12 is actually *the only* 6-row puzzle that is forced by 5 non-grey tiles. All other forced 6-row puzzles have more.
+Puzzle 11 is actually *the only* 6-row puzzle that is forced by 5 non-grey tiles. All other forced 6-row puzzles have more.
 
-Puzzles 13, 14 and 15 are hand-picked for having certain aspects that result in a difficult solve.
+Puzzles 12, 13, 14 and 15 are hand-picked for having certain aspects that result in a difficult solve.
 
 ⬜⬜⬜⬜⬜  
 ⬜⬜⬜⬜🟩  
@@ -127,7 +118,7 @@ Puzzles 13, 14 and 15 are hand-picked for having certain aspects that result in 
 ⬜⬜🟨⬜🟩  
 ⬜🟩⬜🟩🟩  
 🟩🟩🟩🟩🟩  
-**Puzzle 13:** https://crosswordle.vercel.app/?puzzle=v1-0,2,29,11,62,242-detox
+**Puzzle 12:** https://crosswordle.vercel.app/?puzzle=v1-0,2,29,11,62,242-detox
 
 ⬜⬜⬜⬜⬜  
 ⬜🟨⬜⬜⬜  
@@ -135,7 +126,15 @@ Puzzles 13, 14 and 15 are hand-picked for having certain aspects that result in 
 ⬜⬜🟩⬜🟨  
 🟩⬜🟩⬜🟨  
 🟩🟩🟩🟩🟩  
-**Puzzle 14:** https://crosswordle.vercel.app/?puzzle=v1-0,27,90,19,181,242-hides
+**Puzzle 13:** https://crosswordle.vercel.app/?puzzle=v1-0,27,90,19,181,242-hides
+
+⬜⬜⬜⬜⬜  
+⬜🟨⬜⬜⬜  
+⬜🟩⬜🟨⬜  
+🟨🟩⬜⬜⬜  
+🟨🟩🟩⬜⬜  
+🟩🟩🟩🟩🟩  
+**Puzzle 14:** https://crosswordle.vercel.app/?puzzle=v1-0,27,57,135,153,242-lever
 
 ⬜⬜⬜⬜⬜  
 🟨⬜⬜⬜⬜  
