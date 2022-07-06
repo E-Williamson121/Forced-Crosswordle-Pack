@@ -129,12 +129,12 @@ Puzzles 12, 13, 14 and 15 are hand-picked for having certain aspects that result
 **Puzzle 13:** https://crosswordle.vercel.app/?puzzle=v1-0,27,90,19,181,242-hides
 
 ⬜⬜⬜⬜⬜  
-⬜⬜🟨⬜⬜  
+⬜🟨⬜⬜⬜  
 ⬜⬜⬜🟩⬜  
-⬜🟩⬜🟩⬜  
-⬜🟩⬜🟩🟨  
+⬜⬜⬜🟩🟨  
+🟨🟩⬜🟩⬜  
 🟩🟩🟩🟩🟩  
-**Puzzle 14:** https://crosswordle.vercel.app/?puzzle=v1-0,9,6,60,61,242-baths
+**Puzzle 14:** https://crosswordle.vercel.app/?puzzle=v1-0,27,6,7,141,242-tache
 
 ⬜⬜⬜⬜⬜  
 🟨⬜⬜⬜⬜  
